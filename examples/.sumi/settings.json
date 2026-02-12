@@ -1,0 +1,5 @@
+{
+  "ty.inlayHints.variableTypes": false,
+  "ty.inlayHints.callArgumentNames": false,
+  "ty.completions.autoImport": false
+}
