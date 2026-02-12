@@ -4,18 +4,18 @@
 <p align="center">🤗 <a href="https://huggingface.co/inclusionAI">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/organization/inclusionAI">ModelScope</a></p>
 
 ## Introduction
-Introducing Ring-1T-2.5: the world's first open-source trillion-parameter reasoning model based on hybrid linear attention architecture.
+Introducing Ring-2.5-1T: the world's first open-source trillion-parameter reasoning model based on hybrid linear attention architecture.
 
 In a major step toward general-purpose AI agents, we're scaling hybrid linear attention across pre-training and RL. Our efficient 1:7 MLA + Lightning Linear Attention boosts reasoning speed and exploration, while expanded RL training enhances deep reasoning and long-horizon task execution.
 
 ## Performance
-Ring-1T-2.5 model achieves gold-medal🏅 level performance at both IMO 2025 and CMO 2025. For detailed solutions of our model, please see [examples](https://github.com/inclusionAI/Ring-V2.5/blob/main/examples). 
+Ring-2.5-1T model achieves gold-medal🏅 level performance at both IMO 2025 and CMO 2025. For detailed solutions of our model, please see [examples](https://github.com/inclusionAI/Ring-V2.5/blob/main/examples). 
 
 ## Model Downloads
 
 |      **Model**      |    **Context Length**    |                                                                   **Download**                                                                    |
 |:-------------------:|:------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Ring-1T-2.5-FP8     |    128K -> 256K (YaRN)   | [🤗 HuggingFace](https://huggingface.co/inclusionAI/Ring-1T-2.5-FP8) <br>[🤖 ModelScope](https://www.modelscope.cn/models/inclusionAI/Ring-1T-2.5-FP8) |
+|     Ring-2.5-1T     |    128K -> 256K (YaRN)   | [🤗 HuggingFace](https://huggingface.co/inclusionAI/Ring-2.5-1T) <br>[🤖 ModelScope](https://www.modelscope.cn/models/inclusionAI/Ring-2.5-1T) |
 
 Note: If you are interested in previous version, please visit the past model collections in [Huggingface](https://huggingface.co/inclusionAI) or [ModelScope](https://modelscope.cn/organization/inclusionAI).
 
