@@ -9,7 +9,7 @@ Introducing Ring-1T-2.5: the world's first open-source trillion-parameter reason
 In a major step toward general-purpose AI agents, we're scaling hybrid linear attention across pre-training and RL. Our efficient 1:7 MLA + Lightning Linear Attention boosts reasoning speed and exploration, while expanded RL training enhances deep reasoning and long-horizon task execution.
 
 ## Performance
-Ring-1T-2.5 model achieves gold-medal🏅 level performance at both IMO 2025 and CMO 2025. For detailed solutions of our model, please see [examples]("https://huggingface.co/inclusionAI"). 
+Ring-1T-2.5 model achieves gold-medal🏅 level performance at both IMO 2025 and CMO 2025. For detailed solutions of our model, please see [examples](https://github.com/inclusionAI/Ring-V2.5/blob/main/examples). 
 
 ## Model Downloads
 
@@ -66,7 +66,7 @@ More usage can be found [here](https://docs.sglang.ai/basic_usage/send_request.h
 
 ## License
 
-This code repository is licensed under [the MIT License](https://github.com/inclusionAI/Ring-V2.5/blob/master/LICENCE).
+This code repository is licensed under [the MIT License](https://github.com/inclusionAI/Ring-V2.5/blob/main/LICENSE).
 
 ## Citation
 
