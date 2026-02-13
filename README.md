@@ -4,9 +4,9 @@
 <p align="center">🤗 <a href="https://huggingface.co/inclusionAI">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/organization/inclusionAI">ModelScope</a></p>
 
 ## Introduction
-Introducing Ring-2.5-1T: the world's first open-source trillion-parameter reasoning model based on hybrid linear attention architecture.
+Introducing Ring-2.5-1T: the world's **first open-source trillion-parameter thinking model based on hybrid linear attention** architecture.
 
-In a major step toward general-purpose AI agents, we're scaling hybrid linear attention across pre-training and RL. Our efficient 1:7 MLA + Lightning Linear Attention boosts reasoning speed and exploration, while expanded RL training enhances deep reasoning and long-horizon task execution.
+In a major step toward general-purpose AI agents, we're scaling hybrid linear attention across pre-training and RL. Our efficient 1:7 MLA + Lightning Linear Attention boosts reasoning speed and exploration, while expanded RL training enhances deep thinking and long-horizon task execution.
 
 ## Performance
 Ring-2.5-1T model achieves gold-medal🏅 level performance at both IMO 2025 and CMO 2025. For detailed solutions of our model, please see [examples](https://github.com/inclusionAI/Ring-V2.5/blob/main/examples). 
