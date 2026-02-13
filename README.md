@@ -37,8 +37,9 @@ pip install -e "python"
 
 #### Run Inference
 
-Both BF16 and FP8 models are supported by SGLang now. It depends on the dtype of the model in \${MODEL_PATH}.
-Here is the example to run Ring-1T with multiple GPU nodes, where the master node IP is \${MASTER_IP} and server port is \${PORT}:
+Both BF16 and FP8 models are supported by SGLang now. It depends on the dtype of the model in ${MODEL_PATH}. 
+
+Here is the example to run Ring-1T with multiple GPU nodes, where the master node IP is ${MASTER_IP} and server port is ${PORT}:
 
 - Start server:
 ```bash
