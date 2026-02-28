@@ -63,16 +63,8 @@ curl -s http://${MASTER_IP}:${PORT}/v1/chat/completions \
   -d '{"model": "auto", "messages": [{"role": "user", "content": "What is the capital of France?"}]}'
 ```
 
-More usage can be found [here](https://docs.sglang.ai/basic_usage/send_request.html)
+More usage can be found [here](https://cookbook.sglang.io/autoregressive/InclusionAI/Ring-2.5-1T)
 
 ## License
 
 This code repository is licensed under [the MIT License](https://github.com/inclusionAI/Ring-V2.5/blob/main/LICENSE).
-
-## Citation
-
-If you find our work helpful, feel free to give us a cite.
-
-```
-
-```
